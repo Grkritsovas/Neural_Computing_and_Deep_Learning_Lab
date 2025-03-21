@@ -1,0 +1,13 @@
+#Exclude large files
+/* .csv
+/* .keras
+/* .h5
+/* .json
+
+# Exclude logs and checkpoints directories
+logs/
+checkpoints/
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+checkpoints
