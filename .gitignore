@@ -1,8 +1,8 @@
 #Exclude large files
-/* .csv
-/* .keras
-/* .h5
-/* .json
+*.csv
+*.keras
+*.h5
+*.json
 
 # Exclude logs and checkpoints directories
 logs/
